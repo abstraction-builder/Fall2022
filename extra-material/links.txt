@@ -11,3 +11,9 @@ https://www.youtube.com/watch?v=7aONIVSXiJ8&t=155s
 https://gee.cs.oswego.edu/dl/html/malloc.html
 
 https://github.com/bminor/glibc/blob/master/malloc/malloc.c
+
+# Concurrency
+
+https://www.aosabook.org/en/nginx.html
+
+http://www.kegel.com/c10k.html
